@@ -1,0 +1,9 @@
+<launch>
+<!--node name="sim" pkg="turtlesim" type="turtlesim_node" output="screen"/-->
+<node name="super1" pkg="project6" type="param_node" output="screen">
+</node>
+<node name="super2" pkg="project6" type="param_get_node" output="screen">
+</node>
+<node name="super3" pkg="project6" type="param_del_node" output="screen">
+</node>
+</launch>

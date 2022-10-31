@@ -1,0 +1,8 @@
+prefix=/home/ros/ros_learn/install
+
+Name: project7
+Description: Description of project7
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
